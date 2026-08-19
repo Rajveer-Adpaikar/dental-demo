@@ -1,4 +1,6 @@
 [build]
+  # Use npx to ensure tsc and vite are available in the Netlify build environment
+  command = "npx tsc -b && npx vite build"
   publish = "dist"
   functions = "netlify/functions"
 
