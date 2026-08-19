@@ -1,0 +1,18 @@
+[build]
+  publish = "dist"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/api/book"
+  to = "/.netlify/functions/book"
+  status = 200
+  force = true
+
+# sm_environment: shared env vars are set in the Netlify UI, not committed.
+# Required (set in Netlify dashboard → Site settings → Environment variables):
+#   GOOGLE_SHEET_ID              — the spreadsheet id from the sheet URL
+#   GOOGLE_SHEET_RANGE           — e.g. "Bookings!A:F"
+#   GOOGLE_SERVICE_ACCOUNT_JSON  — full service-account JSON, JSON-encoded as a single-line string

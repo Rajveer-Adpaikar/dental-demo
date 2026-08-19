@@ -1,0 +1,58 @@
+- generic [ref=e3]:
+  - generic [ref=e4]: "0"
+  - banner [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e9]: Dental
+        - generic [ref=e10]: Health
+      - generic [ref=e11]: quality healthcare
+    - generic [ref=e12]:
+      - button "Menu" [ref=e13] [cursor=pointer]
+      - generic [ref=e14]: Dental Emergency
+  - generic [ref=e16]:
+    - generic [ref=e17]: Advanced Dentistry
+    - generic [ref=e19]: High Quality Equipment
+    - generic [ref=e21]: Friendly Staff
+    - generic [ref=e23]:
+      - generic [ref=e24]: We wish to provide professional dental servicesthat match the current technologies
+      - generic [ref=e25]:
+        - generic [ref=e26]: Trusted Dentist in West New York
+        - heading "Dental Care" [level=1] [ref=e27]: DentalCare
+      - generic [ref=e28]: Free Consultation
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]: Smile Gallery
+      - generic [ref=e33]: Our cosmetic dental work
+    - generic [ref=e34]:
+      - generic [ref=e35]: If you want a gorgeous smile,call us to ask about a smile makeover.
+      - button "Call Us" [ref=e36] [cursor=pointer]
+    - generic [ref=e37]: Smilemakeover
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - heading "Dental Veneers" [level=3] [ref=e42]
+        - generic [ref=e43]: "01"
+      - generic [ref=e44]:
+        - heading "Dental Crowns" [level=3] [ref=e45]
+        - generic [ref=e46]: "02"
+      - generic [ref=e47]:
+        - heading "Teeth Whitening" [level=3] [ref=e48]
+        - generic [ref=e49]: "03"
+      - heading "Dental Implants" [level=3] [ref=e51]
+  - generic [ref=e53]:
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - heading "Implant Dentistry" [level=2] [ref=e56]: ImplantDentistry
+        - paragraph [ref=e57]: Restore Missing Teeth
+      - generic [ref=e58]:
+        - img "Dental implant procedure" [ref=e60]
+        - img "Dental restoration" [ref=e62]
+      - generic [ref=e63]:
+        - generic [ref=e64]:
+          - paragraph [ref=e65]: Consultation
+          - heading "Dental Restoration Services" [level=3] [ref=e66]: DentalRestorationServices
+        - button "Book Online" [ref=e67] [cursor=pointer]
+    - generic [ref=e68]:
+      - img "Smiling patient" [ref=e69]
+      - generic [ref=e70]:
+        - heading "The Process of Installing Implants" [level=4] [ref=e72]: The Processof InstallingImplants
+        - heading "Caring for Dental Implants" [level=4] [ref=e77]: Caringfor DentalImplants
